@@ -1,17 +1,12 @@
-### Hi, I'm Lara Ludwig 👋
+### Hi 👋, I'm Lara Ludwig and I work as a Backend Developer
+
+- 🔭 I’m currently working on @warrenbrasil
+- 🌱 I’m currently studying algorithms, data structures, english and neuroscience
+- :books: I’m currently reading [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) and [Neuroscience](https://www.amazon.com.br/Neuroscience-Exploring-Mark-Bear-PhD/dp/0781778174)
+- 💬 Ask me about nodejs, typescript and mongodb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraludwig18&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraludwig18&layout=compact&theme=dracula)
 
-<!--
-**laraludwig18/laraludwig18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Lara Ludwig](https://img.shields.io/badge/-Lara%20Ludwig%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lara-ludwig/)](https://www.linkedin.com/in/lara-ludwig/)
