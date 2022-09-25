@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on @warrenbrasil
 - 🌱 I’m currently studying algorithms, data structures, english and neuroscience
 - :books: I’m currently reading [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) and [Neuroscience](https://www.amazon.com.br/Neuroscience-Exploring-Mark-Bear-PhD/dp/0781778174)
-- 💬 Ask me about nodejs, typescript and mongodb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraludwig18&count_private=true&show_icons=true&theme=dracula)
 
