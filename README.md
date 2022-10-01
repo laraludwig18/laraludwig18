@@ -9,3 +9,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraludwig18&layout=compact&theme=dracula)
 
 [![Linkedin Lara Ludwig](https://img.shields.io/badge/-Lara%20Ludwig%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lara-ludwig/)](https://www.linkedin.com/in/lara-ludwig/)
+
+![profile views](https://komarev.com/ghpvc/?username=laraludwig18)
