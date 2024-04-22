@@ -1,7 +1,7 @@
-### Hi 👋, I'm Lara Ludwig and I work as a Backend Developer
+### Hi 👋, I'm Lara Ludwig and I work as a Software Engineer
 
-- 🔭 I’m currently working on @warrenbrasil
-- 🌱 I’m currently studying algorithms, data structures, software architecture and domain-driven design
+- 🔭 I’m currently working on @withclutch
+- 🌱 I’m currently studying algorithms, data structures and domain-driven design
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraludwig18&count_private=true&show_icons=true&theme=dracula)
 
